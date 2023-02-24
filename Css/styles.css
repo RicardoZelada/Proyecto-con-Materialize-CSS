@@ -1,0 +1,34 @@
+.dropdown-content{
+    border-radius: 5px;
+}
+
+.container a img{
+    margin-top: 20px;
+}
+.active-class{
+    font-weight: bold;
+}
+.div-title {
+    display: flex;
+}
+.card .card-content{
+    padding: 15px;
+}
+.card .card-title{
+    font-size: 16px;
+    font-weight: bold;
+}
+.title h6{
+    padding: 10px;
+    font-weight: bold;
+}
+/*
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                 */
